@@ -1,6 +1,6 @@
 # FedAER
 
-Code for Resource-Constrained Personalized Federated Relation Classification with Entity and Relation Representation Alignment. Our paper is currently under review, and we will release the full code upon acceptance.
+Code for Resource-Constrained Personalized Federated Relation Classification with Entity and Relation Representation Alignment. Our paper is currently under review, and we will release the full code upon acceptance. The datasets can be available on request.
 
 This repository is organized as a **reproducible codebase**, not as an experiment dump. Training logs, temporary launcher scripts, generated result tables, local IDE files, and partitioned datasets are intentionally excluded from version control.
 
